@@ -1,0 +1,69 @@
+1) Вопрос 1 Какой сервис AWS поддерживает высокопроизводительные базы данных и автоматическое резервное копирование?
+
+a) Amazon VPC
+
+b) Amazon RDS
+
+c) Amazon S3
+
+d) AWS Lambda
+
+
+b) Amazon RDS
+
+
+2) Вопрос 2 Какой сервис AWS обеспечивает высоконадежное хранение данных (объектов) и поддерживает различные классы хранения?
+a) Amazon RDS
+
+b) Amazon S3
+
+c) Amazon DynamoDB
+
+d) Amazon EC2
+
+
+b) Amazon S3
+
+
+
+Вопрос 3 Какой сервис AWS является управляемым DNS-сервисом?
+a) Amazon EC2
+
+b) Amazon Route 53
+
+c) AWS Lambda
+
+d) Amazon S3
+
+
+
+b) Amazon Route 53
+
+
+
+Вопрос 4 Какой сервис AWS представляет собой управляемую NoSQL базу данных для быстрого и предсказуемого производительности?
+a) Amazon RDS
+
+b) Amazon DynamoDB
+
+c) Amazon Route 53
+
+d) Amazon EC2
+
+b) Amazon DynamoDB
+
+
+
+Вопрос 5
+Какой сервис AWS позволяет запускать ресурсы в изолированной виртуальной сети?
+
+a) Amazon S3
+
+b) Amazon VPC
+
+c) Amazon RDS
+
+d) AWS CloudFormation
+
+
+b) Amazon VPC
